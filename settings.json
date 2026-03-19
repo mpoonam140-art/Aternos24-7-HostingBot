@@ -1,15 +1,15 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK Robot",
   "bot-account": {
     "username": "imgonnacream",
-    "password": "",
+    "password": "chalol78",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
+    "ip": "Plamasgamerz.aternos.me:39889",
     "port": 62213,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
